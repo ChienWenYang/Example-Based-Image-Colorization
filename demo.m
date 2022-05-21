@@ -8,7 +8,7 @@ input_folder = './input/';
 
 i=1;
 keyWord = num2str(i,'%02d');
-max_it = 100;
+max_it = 1000;
 
 [tar_yuv, tar_rgb] = read_Image(input_folder, keyWord, 'gray'); %tar_rgb is grayscale
 [ref_yuv, ref_rgb] = read_Image (input_folder, keyWord, 'ref');
