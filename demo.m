@@ -6,7 +6,7 @@ clc; clear all; close all;
 
 input_folder = './input/';
 
-i=1;
+i=2;
 keyWord = num2str(i,'%02d');
 max_it = 1000;
 
