@@ -7,7 +7,7 @@ Matlab R2016a
 
 
 ## Usage
-1. Put the test image into "input" directory. Grayscale images are named with the prefix "gray_" and the corresponding reference images are with prefix "ref_".
+1. Put the test image into the "input" directory. Grayscale images are named with the prefix "gray_" and the corresponding reference images are with prefix "ref_".
 The images pairs in the directory are collected from previous publications.
 2. Run 'demo.m'.
 3. Results will be generated in the "output" directory.
