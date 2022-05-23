@@ -3,7 +3,7 @@
 This matlab pseudo code is for "Example-Based Image Colorization Using Primal-Dual Algorithm and Saliency Screening".
 
 ## Requirements
-Matlab R2016a
+Matlab R2020b
 
 
 ## Usage
